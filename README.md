@@ -8,3 +8,14 @@
 - Compare predicted masks with ground-truth annotations.
 - Visualize probability maps and segmentation results.
 - Develop a robust solution for automated infrastructure inspection.
+
+## Tools
+
+- Python
+- PyTorch
+- NumPy
+- Pandas
+- Matplotlib
+- PIL
+- U-Net
+- CRACK500 Dataset
